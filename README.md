@@ -64,9 +64,32 @@
 
 # 页面展示
 ### 登陆页
-![image]()
 
 ![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/83D45FE3FB3F41D2B02BFA14794F0702/36800)
 
 ### 注册页
 ![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/C44FF60A7B1E4709AB473852136A6440/36802)
+
+### 商品列表页
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/0D69496FB58C4B328BC69AE1B8349D51/36804)
+
+### 商品详情页-秒杀进行中
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/58284BE23F6748AEA0ABF41FABDE9E28/36806)
+
+### 商品详情页-秒杀已结束
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/A35ED846798949C1A4F91EB668BAD029/36809)
+
+### 商品详情页-秒杀倒计时
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/9EFFC6DECE834347BCBAF52C0A46A8FF/36808)
+
+### 不可重复秒杀
+![image](https://img-blog.csdnimg.cn/20190528105727735.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JyYWRfUGlUdDc=,size_16,color_FFFFFF,t_70)
+
+### 限制一定时间段里面的秒杀次数：
+![image](https://img-blog.csdnimg.cn/20190528105630318.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JyYWRfUGlUdDc=,size_16,color_FFFFFF,t_70)
+
+### 秒杀成功
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/1504ECDF77384DBA930BD6CC88738B03/36811)
+
+### 订单详情
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/74015860A9D640E6A03EA033BAF90109/36814)
