@@ -61,3 +61,12 @@
 3. 使用页面静态化，缓存页面至浏览器，前后端分离降低服务器压力。
 4. 使用消息队列完成异步下单，提升用户体验，削峰和降流。
 5. 安全性优化：双重md5密码校验，秒杀接口地址的隐藏，接口限流防刷，数学公式验证码。
+
+# 页面展示
+### 登陆页
+![image]()
+
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/83D45FE3FB3F41D2B02BFA14794F0702/36800)
+
+### 注册页
+![image](https://note.youdao.com/yws/public/resource/26c67f9ee7df3aa24bc1c9708118993f/xmlnote/C44FF60A7B1E4709AB473852136A6440/36802)
